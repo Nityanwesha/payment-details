@@ -1,1 +1,13 @@
 # payment-details
+- Name of the Project:PAYMENT DETAILS
+- About the Project (In less than 100 words):
+- THIS PROJECT IS ABOUT THE SHIPPING DETAILS OF A PRODUCT AND THE PAYMNET DETAILS.
+- Tech Stack Used-HTML
+- Motivation for the project-CREATING USER FRIENDLY PROJECT FOR EASY TRANSACTION.
+- How our 7 Days of Web Development helped you in making this project?
+- I HAD BASIC KNOWLEGDE ABOUT HTML, CSS, AND JAVA SCRIPT. THE SESSION HELPED ME IN LEARNING MORE ABOUT THESE AND MADE MY FUNDAMENTALS MORE CLEAR.
+- Hosted link
+- 
+- Your name: NITYANWESHA SWAIN
+- Registration number: 1941012019
+- CSE-"A"
