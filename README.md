@@ -7,7 +7,7 @@
 - How our 7 Days of Web Development helped you in making this project?
 - I HAD BASIC KNOWLEGDE ABOUT HTML, CSS, AND JAVA SCRIPT. THE SESSION HELPED ME IN LEARNING MORE ABOUT THESE AND MADE MY FUNDAMENTALS MORE CLEAR.
 - Hosted link
-- 
+-  https://nityanwesha.github.io/payment-details/
 - Your name: NITYANWESHA SWAIN
 - Registration number: 1941012019
 - CSE-"A"
